@@ -1,0 +1,95 @@
+#title, #list-feats, #learn-more {
+  font-family: Verdana;
+  font-weight: bold;
+}
+
+#img-caption {
+  margin-top: 10px;
+}
+
+#intro {
+  background-color: #ffffff;
+  padding-top: 20px;
+  padding-bottom: 10px;
+
+}
+
+body {
+  background-color: #ffffff;
+  font-family: italic;
+  padding: 10px;
+}
+
+
+#actual-quote, #tribute-info,
+#img-caption {
+  font-style: italic;
+}
+
+#tribute-info,
+#img-caption {
+  font-size: 17px;
+}
+
+main {
+  background-color: #dfdfe2;
+  padding: 10px 50px;
+  margin: 10px;
+}
+
+li, #quote {
+  font-size: 18px;
+}
+
+
+#image {
+  display: block;
+  margin: auto;
+  width: 50%;
+  max-width: 100%
+}
+
+
+#tribute-info,
+#img-caption,
+h1 {
+  text-align: center;
+}
+
+#learn-more {
+  text-align: center;
+}
+
+#list-feats {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+ul {
+  display: table;
+  margin: auto;
+}
+
+#quote-name {
+  margin-top: -50px;
+  margin-left: -100px;
+  margin-bottom: 50px;
+  font-size: 15px;
+}
+
+#quote {
+  font-style: italic;
+}
+#quote, #quote-name {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#quote p {
+  width: 500px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 50px
+
+}
